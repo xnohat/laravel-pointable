@@ -1,12 +1,12 @@
 {
-    "name": "trexology/pointable",
-    "description": "Point system for Laravel 5",
+    "name": "xnohat/pointable",
+    "description": "Point system for Laravel 6",
     "keywords": ["points", "pointable", "laravel", "loyalty", "reward"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Trex Lim",
-            "email": "trexlim@gmail.com"
+            "name": "xnohat",
+            "email": "xnohat@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Trexology\\Pointable\\": "src/"
+            "Xnohat\\Pointable\\": "src/"
         }
     }
 }
